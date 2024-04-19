@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manojsubramanii
-- 👀 I’m interested in  web development
-- 🌱 I’m currently learning  java
-- 💞️ I’m looking to collaborate on google
+- 👀 I’m interested in   full stack web development
+- 🌱 I’m also intrested in java developer
+- 💞️ I’m looking to collaborate on google,IBM and startups
 - 📫 How to reach me email:-manojshivan2003@gmail.com
 
 <!---
