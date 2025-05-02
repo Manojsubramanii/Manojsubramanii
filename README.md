@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is  MANOJ AS <br> I'm a Software developer and designer, from  India</h2>
+<h2 align="left">Hi 👋! My name is  MANOJ AS <br> I'm a Software developer and designer, from  India <br>manojshivan2003@gmail.com</h2>
 
 ###
 
